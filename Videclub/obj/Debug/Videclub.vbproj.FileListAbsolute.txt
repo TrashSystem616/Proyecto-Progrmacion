@@ -1,0 +1,16 @@
+C:\Users\chich\source\repos\Videclub\bin\Debug\Videclub.exe.config
+C:\Users\chich\source\repos\Videclub\bin\Debug\Videclub.exe
+C:\Users\chich\source\repos\Videclub\bin\Debug\Videclub.pdb
+C:\Users\chich\source\repos\Videclub\bin\Debug\Videclub.xml
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.vbproj.AssemblyReference.cache
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.vbproj.SuggestedBindingRedirects.cache
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.Form1.resources
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.Resources.resources
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.vbproj.GenerateResource.cache
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.vbproj.CoreCompileInputs.cache
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.exe
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.xml
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.pdb
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.QnSomos.resources
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.formCatalago.resources
+C:\Users\chich\source\repos\Videclub\obj\Debug\Videclub.FormCarrito.resources
